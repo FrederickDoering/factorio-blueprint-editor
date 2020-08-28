@@ -1,8 +1,10 @@
 {
-	"recommendations": [
-		"dbaeumer.vscode-eslint",
-		"esbenp.prettier-vscode",
-		"eamodio.gitlens",
-		"msjsdiag.debugger-for-chrome"
-	]
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "eamodio.gitlens",
+        "ms-vscode.cpptools",
+        "sumneko.lua",
+        "rust-lang.rust"
+    ]
 }

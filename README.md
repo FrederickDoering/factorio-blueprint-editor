@@ -3,16 +3,9 @@
 # factorio-blueprint-editor
 
 [![Website](https://img.shields.io/website-up-down-brightgreen-red/https/teoxoy.github.io%2Ffactorio-blueprint-editor.svg?style=flat-square)](https://teoxoy.github.io/factorio-blueprint-editor)
-[![Discord](https://img.shields.io/discord/540738973413408809.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/c5eXyBU)
-[![GitHub issues by-label](https://img.shields.io/github/issues/teoxoy/factorio-blueprint-editor/bug.svg?style=flat-square)](https://github.com/Teoxoy/factorio-blueprint-editor/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
-[![GitHub issues by-label](https://img.shields.io/github/issues/teoxoy/factorio-blueprint-editor/enhancement.svg?style=flat-square&color=blue)](https://github.com/Teoxoy/factorio-blueprint-editor/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
-[![GitHub](https://img.shields.io/github/license/teoxoy/factorio-blueprint-editor.svg?style=flat-square&color=blue)](./LICENSE)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/teoxoy/factorio-blueprint-editor.svg?style=flat-square)](https://github.com/Teoxoy/factorio-blueprint-editor/commits/master)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
-[![GitHub contributors](https://img.shields.io/github/contributors/teoxoy/factorio-blueprint-editor.svg?style=flat-square)](https://github.com/Teoxoy/factorio-blueprint-editor/graphs/contributors)
-
-_All badges are clickable!_
+[![Discord](https://img.shields.io/discord/540738973413408809.svg?style=flat-square&color=7289da&logo=discord&logoColor=white)](https://discord.gg/c5eXyBU)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat-square)](./CONTRIBUTING.md)
+&nbsp;&nbsp;_Badges are clickable!_
 
 A feature-rich [Factorio](https://www.factorio.com) Blueprint Editor. You can now edit your blueprints in the browser!
 
@@ -20,16 +13,18 @@ A feature-rich [Factorio](https://www.factorio.com) Blueprint Editor. You can no
 
 Sample blueprint: https://teoxoy.github.io/factorio-blueprint-editor/?source=https://pastebin.com/uc4n81GP
 
-Example link that uses url query parameters: https://teoxoy.github.io/factorio-blueprint-editor/?source=https://pastebin.com/Xp9u7NaA&index=1&interactive=false
+Example blueprint book: https://teoxoy.github.io/factorio-blueprint-editor/?source=https://pastebin.com/Xp9u7NaA&index=1
 
 # Features
-- rendering and editing blueprints
-- history (undo/redo)
-- import blueprints and books from multiple sources (direct bp string, pastebin, hastebin, gist, gitlab, factorioprints, google docs)
-- generating blueprint images
-- oil outpost generator
-- customizable keybinds
-- "creative" entities
+
+-   rendering and editing blueprints
+-   history (undo/redo)
+-   copy and delete selections
+-   import blueprints and books from multiple sources (direct bp string, pastebin, hastebin, gist, gitlab, factorioprints, google docs)
+-   generating blueprint images
+-   oil outpost generator
+-   customizable keybinds
+-   "creative" entities
 
 # Contributing
 
